@@ -18861,7 +18861,7 @@ span.select2-selection.select2-selection--single:focus {
 .project-grid {
   position: relative;
   z-index: 2;
-  background-color: var(--white-color);
+  background-color: var(--grey-color);
   text-align: left;
 }
 
