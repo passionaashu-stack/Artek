@@ -20356,15 +20356,11 @@ span.select2-selection.select2-selection--single:focus {
   }
 }
 
-.video-wrapper {
+@media (min-width: 1024px) {
+  .video-wrapper {
     max-width: 800px;
-    margin: 20px auto;
+    margin: 2rem auto;
+  }
 }
-.video-wrapper video {
-    width: 100%;
-    height: auto;
-    border-radius: 12px;
-}
-
 
 /*# sourceMappingURL=style.css.map */
