@@ -20356,11 +20356,17 @@ span.select2-selection.select2-selection--single:focus {
   }
 }
 
-@media (min-width: 1024px) {
-  .video-wrapper {
-    max-width: 800px;
-    margin: 2rem auto;
-  }
+.video-fullwidth {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  overflow: hidden;
+}
+
+.video-fullwidth video {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
 }
 
 /*# sourceMappingURL=style.css.map */
