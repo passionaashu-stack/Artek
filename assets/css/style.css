@@ -20364,7 +20364,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .video-fullwidth video {
   width: 100%;
-  height: 500px;
+  height: 250px;
   display: block;
   object-fit: cover;
 }
