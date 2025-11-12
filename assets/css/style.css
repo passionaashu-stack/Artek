@@ -18486,6 +18486,14 @@ span.select2-selection.select2-selection--single:focus {
   transition: 0.4s ease-in-out;
 }
 
+.service-block .box-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 180px; /* Adjust based on design */
+  height: 100%;
+}
+
 .service-block .box-icon {
   width: 72px;
   height: 72px;
