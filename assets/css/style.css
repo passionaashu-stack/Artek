@@ -14169,6 +14169,17 @@ span.select2-selection.select2-selection--single:focus {
   /* Medium Large devices */
 }
 
+.img-box5 .box-badge::before {
+    content: "";
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background-color: #101841; /* change colour */
+    z-index: -1;
+}
+
+
 .img-box5 .box-badge .spin-text {
   color: var(--title-color);
   position: absolute;
