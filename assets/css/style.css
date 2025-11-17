@@ -20375,7 +20375,7 @@ span.select2-selection.select2-selection--single:focus {
   }
 }
 
-.video-fullwidth {
+/* .video-fullwidth {
   width: 100vw;
   height: auto;
   position: relative;
@@ -20388,6 +20388,6 @@ span.select2-selection.select2-selection--single:focus {
   height: 10px;
   display: block;
   object-fit: cover;
-} */
+} */ */
 
 /*# sourceMappingURL=style.css.map */
