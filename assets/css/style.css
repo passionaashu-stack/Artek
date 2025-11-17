@@ -14473,7 +14473,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .team-card .box-title {
-  color: var(--white-color);
+  color: var(--black.-color);
   margin-bottom: 8px;
   font-weight: 600;
 }
