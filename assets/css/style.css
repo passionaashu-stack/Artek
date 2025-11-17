@@ -14436,11 +14436,11 @@ span.select2-selection.select2-selection--single:focus {
 
 .team-card .box-content {
   padding: 0 12px 24px 12px;
-  position: absolute;
-  bottom: 24px;
-  left: 24px;
-  right: 24px;
-  z-index: 2;
+  position: relative !important;
+  bottom: auto !important;
+  left: auto !important;
+  right: auto !important;
+  z-index: 1;
   /* Extra small devices */
 }
 
