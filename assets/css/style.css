@@ -20370,11 +20370,11 @@ span.select2-selection.select2-selection--single:focus {
   overflow: hidden;
 }
 
-.video-fullwidth video {
-  width: 100%;
+/* .video-fullwidth video {
+  width: 50;
   height: 10px;
   display: block;
   object-fit: cover;
-}
+} */
 
 /*# sourceMappingURL=style.css.map */
