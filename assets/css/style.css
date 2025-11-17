@@ -14453,7 +14453,7 @@ span.select2-selection.select2-selection--single:focus {
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   z-index: -1;
-  border-radius: 16px;
+  border-radius: 0px;
 }
 
 @media (max-width: 375px) {
