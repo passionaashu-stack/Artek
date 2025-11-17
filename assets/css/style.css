@@ -13222,7 +13222,7 @@ span.select2-selection.select2-selection--single:focus {
 .input-light .form-select,
 .input-light .form-control {
   background-color: var(--light-color);
-  border-radius: 28px;
+  border-radius: 0px;
 }
 
 .input-light .form-group > i {
