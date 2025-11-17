@@ -14435,12 +14435,13 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .team-card .box-content {
-  padding: 24px 12px 24px 12px;
+  padding: 16px 20px;
   position: relative !important;
   bottom: auto !important;
   left: auto !important;
   right: auto !important;
   z-index: 1;
+  background-color: #ffffff;
   /* Extra small devices */
 }
 
@@ -14448,7 +14449,7 @@ span.select2-selection.select2-selection--single:focus {
   content: '';
   position: absolute;
   inset: 0;
-  background: #000000;
+  background: #ffffff;
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   z-index: -1;
