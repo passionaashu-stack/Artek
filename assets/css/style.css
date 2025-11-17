@@ -20366,6 +20366,8 @@ span.select2-selection.select2-selection--single:focus {
 
 .video-fullwidth {
   width: 100vw;
+  height: auto;
+  position: relative;
   margin-left: calc(-50vw + 50%);
   overflow: hidden;
 }
